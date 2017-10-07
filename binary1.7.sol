@@ -381,6 +381,7 @@ contract BinaryOption {
         }
         return true;
     }
+    //edit to update code
 
     function() {
         if (!ensureWeShouldProceedWithBet()) {
